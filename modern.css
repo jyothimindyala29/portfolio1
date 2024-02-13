@@ -1,0 +1,10 @@
+div {
+    background-color: lime;
+    text-align: center;
+    padding:3%;
+}
+a {
+    display:inline-block;
+    text-decoration: none;
+    color:blue;
+}
